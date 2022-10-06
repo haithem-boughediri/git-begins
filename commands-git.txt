@@ -2,3 +2,4 @@ git clone https://github.com/haithem-boughediri/file.name.git
 git add .
 git commit -m "nom du fichier git"
 git push -u origin master
+pour pull on utilise : -"git pull"
